@@ -1,0 +1,23 @@
+{
+  "name": "editorjs_firstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadojkoR/EditorJsFirstProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadojkoR/EditorJsFirstProject/issues"
+  },
+  "homepage": "https://github.com/RadojkoR/EditorJsFirstProject#readme",
+  "dependencies": {
+    "@editorjs/editorjs": "^2.26.5"
+  }
+}
